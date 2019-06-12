@@ -1,3 +1,5 @@
 # fairlady
 
-fairlady test
+codename "fairlady"
+
+behave BDD using python
